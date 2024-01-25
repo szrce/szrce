@@ -2,8 +2,12 @@
 
 If you need help with the following topics, you can send me a message.
 
-* php laravel
-* python
+
+* golang,
+* bash script
+* packet analyzer for wireshark
+* cyber security / for web penetrations test
+* source code analyzer
 * tcp/ip networking,
   * switch,
   * firewall like pfsense manage,sophos 
@@ -12,16 +16,14 @@ If you need help with the following topics, you can send me a message.
 * freebsd package system,
   * building outsource package.
   * configuration
-* golang,
-* bash script
-* packet analyzer for wireshark
-* cyber security / for web penetrations test
-* source code analyzer 
+* php laravel
+* python
 
 
 
 good luck thank you
-
+contact : sezerceadres@gmail.com
+contact : codesaf4@gmail.com
 <!--
 **szrce/szrce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
