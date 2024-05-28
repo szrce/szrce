@@ -19,10 +19,10 @@ If you need help with the following topics, you can send me a message.
 * php laravel
 * python
 
-contribute project
+contributed projects
 * e2guardian,
   * https://github.com/e2guardian/e2guardian/issues/793
-  * https://github.com/e2guardian/e2guardian/issues/793
+  * https://github.com/e2guardian/e2guardian/issues/790
   * https://github.com/e2guardian/e2guardian/issues/802
   * https://github.com/e2guardian/e2guardian/issues/810
              
