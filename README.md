@@ -24,9 +24,9 @@ contributed projects
   * https://github.com/e2guardian/e2guardian/issues/793
   * https://github.com/e2guardian/e2guardian/issues/790
   * https://github.com/e2guardian/e2guardian/issues/802
-  * https://github.com/e2guardian/e2guardian/issues/810
+  * https://github.com/e2guardian/e2guardian/issues/810(bug)
   * https://github.com/e2guardian/e2guardian/issues/830
-  * https://github.com/e2guardian/e2guardian/issues/831
+  * https://github.com/e2guardian/e2guardian/issues/831(bug)
              
 
 good luck thank you
