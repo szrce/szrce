@@ -30,7 +30,7 @@ contributed projects
              
 
 good luck thank you
-contact : codesaf4@gmail.com
+contact : sezerceadres@gmail.com
 <!--
 **szrce/szrce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
