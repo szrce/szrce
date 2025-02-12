@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there
 
 If you need help with the following topics, you can send me a message.
 
