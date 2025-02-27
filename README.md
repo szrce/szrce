@@ -27,7 +27,10 @@ contributed projects
   * https://github.com/e2guardian/e2guardian/issues/810(bug)
   * https://github.com/e2guardian/e2guardian/issues/830
   * https://github.com/e2guardian/e2guardian/issues/831(bug)
-             
+* PfSense,
+  * https://redmine.pfsense.org/issues/16066
+  * https://redmine.pfsense.org/issues/15546
+  * https://redmine.pfsense.org/issues/10339            
 
 good luck thank you
 contact : sezerceadres@gmail.com
